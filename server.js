@@ -11,6 +11,7 @@ var PORT = process.env.PORT || 3301;
 // Sets up the Express app to handle data parsing
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
+app.use(express.static(path.join(__dirname, "public")));
 
 // Router
 require("./routes/apiRoutes")(app);
