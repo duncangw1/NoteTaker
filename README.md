@@ -4,7 +4,7 @@
 
 ## Description
 
-The purpose of the Note Taker is allow the user to write, save, and delete notes from their web browser. This application uses an Express backend that saves and retrieves notes data from a JSON file. The technologies utilized to make this possible are HTML, CSS, JavaScript, jQuery, Node.js, and Express. Once the user invokes the server.js file and creates their localhost server, they will be able to use the application to its full extent. The user can then add as many or as few notes as they would like. Saved notes can be viewed or deleted at any time. This application has also been deployed on Heroku for ease of access ([Deployed App](https://note-taker88324.herokuapp.com/)).
+The purpose of the Note Taker is allow the user to write, save, and delete notes from their web browser. This application uses an Express backend that saves and retrieves notes data from a JSON file. The technologies utilized to make this possible are HTML, CSS, Bootstrap, JavaScript, jQuery, Node.js, Express, and Font Awesome. Once the user invokes the server.js file and creates their localhost server, they will be able to use the application to its full extent. The user can then add as many or as few notes as they would like. Saved notes can be viewed or deleted at any time. This application has also been deployed on Heroku for ease of access ([Deployed App](https://note-taker88324.herokuapp.com/)).
 
 ## Table of Contents
 
@@ -30,7 +30,7 @@ _Guidelines for usage & link to Live Demo._
 
 This application may be used to take notes for any personal, professional, or educational purpose. Please view the [Live Demo](https://note-taker88324.herokuapp.com/) to easily test and use the application without installing through the terminal.
 
-![Note Taker Demo](#)
+![Note Taker Demo](public/assets/images/NoteTaker.gif)
 
 ## Licenses
 
